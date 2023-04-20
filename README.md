@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mayank2553
 - 👀 I’m interested in learning new skills and gaining new experiences.
-- 🌱 I’m currently learning Content Writing, UI UX Design and Web Design.
+- 🌱 I’m currently learning Data Science.
 - 📩 Reach me at @shreyansh2553@gmail.com
 <!---
 Mayank2553/Mayank2553 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
