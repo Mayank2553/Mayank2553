@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mayank2553
+- 👋 Hi, I’m Mayank Srivastava.
 - 👀 I’m interested in learning new skills and gaining new experiences.
 - 🌱 I’m currently learning Data Science.
 - 📩 Reach me at @shreyansh2553@gmail.com
